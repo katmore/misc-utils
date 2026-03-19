@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# https://github.com/katmore/misc-utils/tree/master/install-grub-windows-default.sh
+# https://github.com/katmore/misc-utils/blob/master/grub-helper/install-grub-windows-default.sh
 #
 # install-grub-windows-default.sh
 # Sets up GRUB to always default to Windows, surviving major updates.
